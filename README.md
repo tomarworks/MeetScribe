@@ -45,3 +45,14 @@ MeetScribe is an AI-powered meeting intelligence system that processes recorded 
               └────────────┬────────────┘
                            ▼
                      Web Interface
+
+## Tech Stack
+
+Technology	             Purpose
+Python	                Core application
+Flask	                  Web application
+Whisper	                Speech-to-text
+Pyannote	              Speaker diarization
+LangChain	              LLM orchestration
+Ollama	                Local LLM inference
+HTML/CSS	              User interface
